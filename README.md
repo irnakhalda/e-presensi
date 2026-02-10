@@ -50,18 +50,17 @@
 
 1. **Clone repository**:
    ```bash
-   git clone [https://github.com/Malikzert/e-presensi.git](https://github.com/Malikzert/e-presensi.git)
+   git clone [https://github.com/irnakhalda/e-presensi.git](.ghttps://github.com/irnakhalda/e-presensiit)
    cd e-presensi
 
 ```
-
+```
 2. **Instal dependensi**:
 ```bash
 composer install
 npm install && npm run dev
 
 ```
-
 
 3. **Konfigurasi Environment**:
 Salin `.env.example` menjadi `.env` dan masukkan kredensial Database, Google Maps API Key, dan SMTP Email Anda.
